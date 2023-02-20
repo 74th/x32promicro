@@ -2,13 +2,18 @@
 
 ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MCU 用 ProMicro 型開発ボード
 
+<img src="photos/x32micro-v1.1.1-front.jpg" width="30%">
+<img src="photos/x32micro-v1.1.1-back.jpg" width="30%">
+<img src="photos/x32micro-v1.1.1-pcb.jpg" width="30%">
+
 - BOOTH 販売ページ
-- 回路図 Semantics [x32micro-v1.1.1-semantics.pdf](x32micro-v1.1.1-semantics.pdf)
-- PCB [x32micro-v1.1.1-pcb.pdf](x32micro-v1.1.1-pcb.pdf)
+- 回路図 Semantics [documents/x32micro-v1.1.1-semantics.pdf](documents/x32micro-v1.1.1-semantics.pdf)
+- PCB [documents/x32micro-v1.1.1-pcb.pdf](documents/x32micro-v1.1.1-pcb.pdf)
 
 ### Tested MCU
 
-- STMicro: STM32F103C8T6
+<!-- - STMicro: STM32F103C8T6 -->
+
 - WCH: CH32V203C8T6
 
 ## X32Micro v1.1.1
