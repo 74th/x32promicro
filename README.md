@@ -16,6 +16,8 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 
 ## X32Micro v1.1.1
 
+[gerber](https://github.com/74th/x32promicro/releases/tag/1.1.1)
+
 ### 部品表 Parts List
 
 | Reference | Parts                                | Qty |
