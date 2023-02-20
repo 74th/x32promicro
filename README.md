@@ -36,3 +36,7 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 | U2        | MCU STM32V103C8T6                    | 1   |
 | SW1,SW2   | Push Switch SKRPABE010               | 2   |
 | J1        | USB 2.0 Type-C Socket                | 1   |
+
+## License
+
+MIT
