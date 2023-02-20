@@ -37,7 +37,7 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 | SW1,SW2   | Push Switch SKRPABE010               | 2   |
 | J1        | USB 2.0 Type-C Socket                | 1   |
 
-![parts](photos/ch32v203micro-v1.0.0-parts-position.png)
+![parts](photos/x32micro-v1.1.1-parts-position.png)
 
 ## License
 
