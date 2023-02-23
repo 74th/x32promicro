@@ -13,6 +13,7 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 <!-- - STMicro: STM32F103C8T6 -->
 
 - WCH: CH32V203C8T6
+- STMicro: STM32F103C8T6
 
 ## X32Micro v1.1.1
 
