@@ -27,7 +27,7 @@ CH32V203 はクリスタルなしでも動作します。
 | Reference | Parts                                | Qty |
 | --------- | ------------------------------------ | --- |
 | R1,R2     | 0805 Register 5.1kR                  | 2   |
-| R3        | 0805 Register 200R                   | 1   |
+| R3        | 0805 Register 200R or 10kR           | 1   |
 | R4        | 0805 Register 0R                     | 1   |
 | R5,R6,R7  | 0805 Register 10kR                   | 3   |
 | C1        | 0805 Capacitor 10uF                  | 1   |
