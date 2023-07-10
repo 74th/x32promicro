@@ -400,7 +400,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -500,19 +500,11 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+5V"
+        "pattern": ".*\\+(3V3|5V).*"
       },
       {
         "netclass": "USB_D0.2",
-        "pattern": "*D+*"
-      },
-      {
-        "netclass": "USB_D0.2",
-        "pattern": "*D-*"
+        "pattern": ".*USBD(\\+|\\-).*"
       }
     ]
   },
