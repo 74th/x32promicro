@@ -6,8 +6,8 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 
 - BOOTH 販売ページ
 - STM32F103 互換系
-  - 回路図 Semantics [f103cxt6/x32micro-v1.1.1-semantics.pdf](f103cxt6/x32micro-v1.1.1-semantics.pdf)
-  - PCB [f103cxt6/x32micro-v1.1.1-pcb.pdf](f103cxt6/x32micro-v1.1.1-pcb.pdf)
+  - 回路図 Semantics: [PDF](f103cxt6/x32micro-v1.1.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.1.1%2Fx32promicro.kicad_sch)
+  - PCB [PDF](f103cxt6/x32micro-v1.1.1-pcb.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.1.1%2Fx32promicro.kicad_pcb) 
 
 ### Tested MCU
 
