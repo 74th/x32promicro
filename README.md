@@ -41,8 +41,8 @@ difference from v1.1.1
 
 ### Documents
 
-- Semantics : [PDF](f103cxt6/x32micro-v1.1.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Fx32promicro.kicad_sch)
-- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.1.1%2Fx32promicro.kicad_pcb)
+- Semantics : [PDF](f103cxt6/x32micro-v1.1.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Ff103cxt6%2Fx32promicro.kicad_sch)
+- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Ff103cxt6%2Fx32promicro.kicad_pcb)
 
 ### Parts List
 
