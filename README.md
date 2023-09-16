@@ -41,8 +41,8 @@ difference from v1.1.1
 
 ### Documents
 
-- Semantics : [PDF](f103cxt6/x32micro-v1.1.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Fx32promicro.kicad_sch)
-- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.1.1%2Fx32promicro.kicad_pcb)
+- Semantics : [PDF](f103cxt6/x32micro-v1.1.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Ff103cxt6%2Fx32promicro.kicad_sch)
+- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fx32promicro%2Fblob%2F1.2.0%2Ff103cxt6%2Fx32promicro.kicad_pcb)
 
 ### Parts List
 
@@ -55,7 +55,7 @@ difference from v1.1.1
 | C1         | Capacitor 0805 10uF                        | 1        |
 | C2,C4,C5   | Capacitor 0805 100nF                       | 3        |
 | C3         | Capacitor 0805 2.2uF                       | 1        |
-| C6,C7      | Capacitor 0805 22pF                        | 2        |
+| C6,C7      | Capacitor 0805 10-22pF                     | 2        |
 | F1         | Polyfuse 1206 Polyfuse                     | 1        |
 | D1         | LED 0805 Blue                              | 1        |
 | U1         | MCU STM32V103C8T6/CH32V203C8T6             | 1        |
