@@ -6,7 +6,7 @@
 
   (title_block
     (title "x32micro")
-    (rev "1.1.1")
+    (rev "1.2.0")
   )
 
   (lib_symbols
@@ -2062,7 +2062,7 @@
     (property "Reference" "F1" (at 90.17 29.21 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Polyfuse" (at 90.17 31.75 90)
+    (property "Value" "500mA" (at 90.17 31.75 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (at 85.09 36.83 0)

@@ -21,7 +21,7 @@ ProMicro サイズの STM32、CH32 など STM32F103CxT6 互換ピンアウト MC
 
 difference from v1.1.1
 
-- Arduino UNO R4-like SWD with UART 1.24mm 10-pin added. VCC is 3.3V.
+- Arduino UNO R4-like SWD with UART 1.26mm 10-pin added. VCC is 3.3V.
 - Added Fuse to power supply.
 - Damping resistor added to USB DM/DP
 - Added pull-up resistor on USB DP to indicate USB 1.1 Full Speed
@@ -31,7 +31,7 @@ difference from v1.1.1
 
 #### Japanese
 
-- Arduino UNO R4 っぽい UART 付き SWD 1.24mm 10 ピンを追加。ただし VCC は 3.3V。
+- Arduino UNO R4 っぽい UART 付き SWD 1.27mm 10 ピンを追加。ただし VCC は 3.3V。
 - 電源に Fuse を追加
 - USB DM/DP にダンピング抵抗を追加
 - USB DP に USB 1.1 Full Speed を示すプルアップ抵抗追加
